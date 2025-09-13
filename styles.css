@@ -11,7 +11,7 @@
 
 .nav-menu li a {
   text-decoration: none;  /* remove underline */
-  color: #0000FF;         /* greenish-blue color */
+  color: #1E90FF;         /* blue color like standard hyperlinks */
   font-weight: bold;
   font-size: 18px;
 }
