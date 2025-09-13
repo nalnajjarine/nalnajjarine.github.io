@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Home - Nour Alnajjarine</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Nour Alnajjarine</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="research.html">Research</a></li>
+        <li><a href="teaching.html">Teaching</a></li>
+        <li><a href="talks.html">Talks</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <h2>Welcome!</h2>
+    <p>I studied Mathematics at the <a href="https://ul.edu.lb">Lebanese University</a> ...</p>
+    <h3>Contact</h3>
+    <p>Email: <a href="mailto:nour.alnajjarine@math.uniri.hr">nour.alnajjarine@math.uniri.hr</a></p>
+  </main>
+
+  <footer>
+    <p>© Nour Alnajjarine</p>
+  </footer>
+</body>
+</html>
