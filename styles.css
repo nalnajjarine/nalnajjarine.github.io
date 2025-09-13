@@ -11,7 +11,7 @@
 
 .nav-menu li a {
   text-decoration: none;  /* remove underline */
-  color: #3cb371;         /* greenish-blue color */
+  color: #008080;         /* greenish-blue color */
   font-weight: bold;
   font-size: 18px;
 }
